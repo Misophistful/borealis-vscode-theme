@@ -3,8 +3,7 @@
 A Visual Studio Code theme that's been designed primarily for Clojure, but which looks great with other languages too.
 
 ## Screen shots
-![Clojure](clojure.png)
-![Javascript](javascript.png)
+![Clojure](Clojure.png)
 
 # Installation
 
