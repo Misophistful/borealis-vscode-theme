@@ -1,0 +1,31 @@
+{
+    "name": "borealis-theme",
+    "displayName": "borealis-theme",
+    "description": "A dark theme with pastel syntax highlight colors.",
+    "version": "0.0.1",
+    "publisher": "Misophistful",
+    "author":{
+        "name": "James Trunk"
+    },
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "Borealis",
+        "Dark",
+        "Clojure",
+        "Pastel"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Borealis",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Borealis-color-theme.json"
+            }
+        ]
+    }
+}
