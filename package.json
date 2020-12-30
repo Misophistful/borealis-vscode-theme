@@ -14,6 +14,7 @@
         "type": "git",
         "url": "https://github.com/Misophistful/borealis-vscode-theme"
     },
+    "icon": "https://github.com/Misophistful/borealis-vscode-theme/raw/main/Icon.png",
     "categories": [
         "Themes"
     ],
