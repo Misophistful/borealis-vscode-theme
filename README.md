@@ -3,8 +3,12 @@
 A Visual Studio Code theme that's been designed for Clojure, but which looks pretty good with other languages too.
 
 ## Screen shots
+### Clojure
 ![Clojure](https://github.com/Misophistful/borealis-vscode-theme/raw/main/Clojure.png)
+### JavaScript
 ![JavaScript](https://github.com/Misophistful/borealis-vscode-theme/raw/main/JavaScript.png)
+### Java
+![Java](https://github.com/Misophistful/borealis-vscode-theme/raw/main/Java.png)
 
 # Installation
 
