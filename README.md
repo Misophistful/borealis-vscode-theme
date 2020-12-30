@@ -19,3 +19,18 @@ A Visual Studio Code theme that's been designed for Clojure, but which looks pre
 5.  Click **Install** to install it
 6.  Click **Reload** to reload the Code
 7.  From the menu bar click: Code > Preferences > Color Theme > **Borealis**
+
+# Rainbow parens
+![RainbowParens](https://github.com/Misophistful/borealis-vscode-theme/raw/main/RainbowParens.png)
+If you use [Calva](https://github.com/BetterThanTomorrow/calva) and like rainbow parens, then feel add this list of colours to your `settings.json`:
+
+```
+"calva.highlight.bracketColors": [
+        "#70BFFF",
+        "#887FD5",
+        "#EB77EC",
+        "#FFBB44",
+        "#EFEF66",
+        "#63EB63",
+        "#55F1E1"
+    ]
