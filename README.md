@@ -1,9 +1,10 @@
 # Borealis
 
-A Visual Studio Code theme that's been designed primarily for Clojure, but which looks great with other languages too.
+A Visual Studio Code theme that's been designed for Clojure, but which looks pretty good with other languages too.
 
 ## Screen shots
-![Clojure](Clojure.png)
+![Clojure](https://github.com/Misophistful/borealis-vscode-theme/raw/main/Clojure.png)
+![JavaScript](https://github.com/Misophistful/borealis-vscode-theme/raw/main/JavaScript.png)
 
 # Installation
 
